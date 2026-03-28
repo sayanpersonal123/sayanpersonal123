@@ -24,7 +24,7 @@ Currently at [Talview](https://talview.com), leading product for recruitment aut
 
 ### Connect
 
-- 🌐 [Portfolio](https://sayan-gupta-portfolio.vercel.app/)
+- 🌐 [Portfolio](https://www.sayangupta.in/)
 - 📝 [Substack](https://sayangupta.substack.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sayan-gupta007/)
 
