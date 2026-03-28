@@ -9,9 +9,9 @@ Currently at [Talview](https://talview.com), leading product for recruitment aut
 ### What I'm working on
 
 - **Shipping AI-native hiring products** — conversational AI interviewers, recruiter copilots, workflow automation engines, resume parsing and shortlisting.
-- **Building AI agent prototypes** — productivity agents using Claude API + MCP integrations (Slack, Notion, Linear, Fireflies, HubSpot, Mixpanel)
-- **Learning AI/ML fundamentals** — transformers, attention mechanisms, embeddings, MoEs — to make better architecture and build-vs-buy decisions as a PM
-- **Writing on Substack** — real-world product management and applied AI, no fluff
+- **Building AI agent prototypes** — productivity agents using Claude API + MCP integrations (Slack, Notion, Linear, Fireflies, HubSpot, Mixpanel).
+- **Learning AI/ML fundamentals** — transformers, attention mechanisms, embeddings, MoEs — to make better architecture and build-vs-buy decisions as a PM.
+- **Writing on Substack** — real-world product management and applied AI.
 
 ---
 
