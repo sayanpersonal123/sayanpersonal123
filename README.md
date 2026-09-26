@@ -1,4 +1,4 @@
-<a href="https://sayanpersonal123.github.io/showreel/"><img src="assets/showreel-preview.gif" width="100%" alt="30-second motion showreel: Sayan Gupta, Lead Product Manager for AI products"></a>
+<a href="https://sayanpersonal123.github.io/showreel/"><img src="showreel-preview.gif" width="100%" alt="30-second motion showreel: Sayan Gupta, Lead Product Manager for AI products"></a>
 
 <p align="center"><a href="https://sayanpersonal123.github.io/showreel/"><b>Watch the 30-second showreel with sound</b></a></p>
 
